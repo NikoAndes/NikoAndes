@@ -1,5 +1,4 @@
-<h1 align="center">Hey, I'm Nikolás Castro 👋</h1>
-<h3 align="center">Engineering Student | Java Developer | Embedded Systems Enthusiast</h3>
+<h1 align="center">Hey, I'm Nikolas Isaza 👋</h1><h3 align="center">Engineering Student | Java Developer | Embedded Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+%7C+OOP+%7C+Multithreading;Embedded+Systems+%7C+ESP32+%7C+Arduino;Digital+Circuits+%7C+Electronics;Always+learning+new+things..." alt="Typing SVG" />
