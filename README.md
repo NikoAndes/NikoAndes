@@ -14,7 +14,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=NikoAndes&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/NikoAndes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
 [![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2_Open_to-Internships_%26_Freelance-238636?style=flat-square)](https://github.com/NikoAndes)
-[![Colombia](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B4_Tocancip%C3%A1-Colombia-FCD116?style=flat-square)]()
+[![Colombia](https://img.shields.io/badge/%F0%9F%87%A8%F0%9F%87%B4_Mosquera-Colombia-FCD116?style=flat-square)]()
 
 </div>
 
@@ -23,14 +23,14 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name       : Nicolas Isaza Sierra
-alias      : NikoAndes
-location   : Tocancipá, Cundinamarca, Colombia 🇨🇴
-university : Universidad Militar Nueva Granada (UMNG)
-degree     : Mechatronics Engineering — 3rd Semester
-focus      : Java OOP | Embedded Systems | IoT | Logistics Automation
-status     : Open to internships & technical collaborations
-says       : "I don't wait to have all the knowledge. I build and learn along the way."
+name      : Nicolas Isaza Sierra
+alias     : NikoAndes
+location  : Mosquera, Cundinamarca, Colombia 🇨🇴
+university: Universidad Militar Nueva Granada (UMNG)
+degree    : Mechatronics Engineering — 3rd Semester
+focus     : Java OOP | Embedded Systems | IoT | Logistics Automation
+status    : Open to internships & technical collaborations
+says      : "I don't wait to have all the knowledge. I build and learn along the way."
 ```
 
 ---
@@ -67,8 +67,6 @@ says       : "I don't wait to have all the knowledge. I build and learn along th
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | 📦 Project | 📝 Description | ⚡ Stack | 🟢 Status |
 |:-----------|:--------------|:--------|:--------|
 | [🏠 **homefive-order-dashboard**](https://github.com/NikoAndes/homefive-order-dashboard) | E-commerce logistics dashboard with KPI metrics & order tracking | `HTML` `CSS` `JavaScript` | Active |
@@ -77,19 +75,14 @@ says       : "I don't wait to have all the knowledge. I build and learn along th
 | [📦 **java-inventory-manager**](https://github.com/NikoAndes/java-inventory-manager) | Console inventory system — product CRUD, CSV persistence, low-stock alerts | `Java` `OOP` `File I/O` | Active |
 | [🗺️ **java-logistics-route-simulator**](https://github.com/NikoAndes/java-logistics-route-simulator) | Shortest delivery route finder using Dijkstra on a Colombian city graph | `Java` `Graphs` `Dijkstra` | Active |
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NikoAndes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoAndes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NikoAndes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+![NikoAndes's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoAndes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
 </div>
 
 ---
@@ -97,12 +90,12 @@ says       : "I don't wait to have all the knowledge. I build and learn along th
 ## 🎯 Currently Working On
 
 ```
-🔄  Deepening Java OOP, data structures & algorithms
-🔌  ESP32 + DHT22/BMP280 sensor integration (real hardware)
-📦  Logistics automation dashboard for HomeFive e-commerce
-🌐  REST APIs with Spring Boot
-📡  MQTT protocol for IoT device communication
-🖥️  SolidWorks advanced mechanical design
+🔄 Deepening Java OOP, data structures & algorithms
+🔌 ESP32 + DHT22/BMP280 sensor integration (real hardware)
+📦 Logistics automation dashboard for HomeFive e-commerce
+🌐 REST APIs with Spring Boot
+📡 MQTT protocol for IoT device communication
+🖥️ SolidWorks advanced mechanical design
 ```
 
 ---
@@ -121,9 +114,6 @@ says       : "I don't wait to have all the knowledge. I build and learn along th
 ---
 
 <div align="center">
-
-<!-- WAVE FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
 
 *"The engineer's job is not to know everything — it's to build the system that figures it out."*
 
