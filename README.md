@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- WAVE HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Nicolas%20Isaza%20Sierra&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20Java%20Developer%20%7C%20IoT%20%26%20Embedded%20Systems&descSize=16&descAlignY=58&animation=fadeIn" />
+<image href="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:58a6ff&amp;height=200&amp;section=header&amp;text=Nicolas%20Isaza%20Sierra&amp;fontSize=40&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mechatronics%20Engineering%20%7C%20Java%20Developer%20%7C%20IoT%20%26%20Embedded%20Systems&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/NikoAndes">
